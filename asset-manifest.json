@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.5b0ede56.chunk.css",
-    "main.js": "/resume/static/js/main.c343230d.chunk.js",
-    "main.js.map": "/resume/static/js/main.c343230d.chunk.js.map",
+    "main.css": "/resume/static/css/main.edecd589.chunk.css",
+    "main.js": "/resume/static/js/main.15b91959.chunk.js",
+    "main.js.map": "/resume/static/js/main.15b91959.chunk.js.map",
     "runtime-main.js": "/resume/static/js/runtime-main.bced3f42.js",
     "runtime-main.js.map": "/resume/static/js/runtime-main.bced3f42.js.map",
     "static/css/2.262cc911.chunk.css": "/resume/static/css/2.262cc911.chunk.css",
@@ -12,15 +12,15 @@
     "static/js/3.3f08e7cd.chunk.js.map": "/resume/static/js/3.3f08e7cd.chunk.js.map",
     "index.html": "/resume/index.html",
     "static/css/2.262cc911.chunk.css.map": "/resume/static/css/2.262cc911.chunk.css.map",
-    "static/css/main.5b0ede56.chunk.css.map": "/resume/static/css/main.5b0ede56.chunk.css.map",
+    "static/css/main.edecd589.chunk.css.map": "/resume/static/css/main.edecd589.chunk.css.map",
     "static/js/2.36199087.chunk.js.LICENSE.txt": "/resume/static/js/2.36199087.chunk.js.LICENSE.txt",
     "static/media/App.css": "/resume/static/media/Garamond.2a1da2db.ttf",
     "static/media/active-button.1716a61c.svg": "/resume/static/media/active-button.1716a61c.svg",
-    "static/media/avatar.a4c67b1b.svg": "/resume/static/media/avatar.a4c67b1b.svg",
     "static/media/bootstrap_alt.3a58e720.svg": "/resume/static/media/bootstrap_alt.3a58e720.svg",
     "static/media/semantic.min.css": "/resume/static/media/outline-icons.ddae9b1b.woff",
     "static/media/graduation.e71dfbe6.svg": "/resume/static/media/graduation.e71dfbe6.svg",
     "static/media/qwiki.6390c6d1.svg": "/resume/static/media/qwiki.6390c6d1.svg",
+    "static/media/self.c8ed0790.jpg": "/resume/static/media/self.c8ed0790.jpg",
     "static/media/video-stream-alt.e315bb4e.svg": "/resume/static/media/video-stream-alt.e315bb4e.svg",
     "static/media/work1.e081a360.svg": "/resume/static/media/work1.e081a360.svg",
     "static/media/work2.476dcaca.svg": "/resume/static/media/work2.476dcaca.svg",
@@ -30,7 +30,7 @@
     "static/js/runtime-main.bced3f42.js",
     "static/css/2.262cc911.chunk.css",
     "static/js/2.36199087.chunk.js",
-    "static/css/main.5b0ede56.chunk.css",
-    "static/js/main.c343230d.chunk.js"
+    "static/css/main.edecd589.chunk.css",
+    "static/js/main.15b91959.chunk.js"
   ]
 }
